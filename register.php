@@ -1,6 +1,5 @@
 
 <?php include'includes/header.php';?>
-<?php include'includes/headnav.php';?>
 <?php include'includes/navbar.php';?>
 
     <div class="breacrumb-section">

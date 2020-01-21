@@ -17,12 +17,9 @@ $sql="SELECT * FROM user_login where email ='$email' AND password='$password'";
 							$_SESSION['name']=$row['name'];
 							$_SESSION['company_name']=$row['company_name'];
             }
-
-					}
-				//echo $_SESSION['name'];exit;
-	header('Location:index');
-}else{
-	$_SESSION['lmsg']="invalid login";
-	header('Location:login.php');
+            header('Location:index');
+					}else{
+            header('Location:login');
+          }
 }
 ?>
