@@ -10,8 +10,7 @@
                         <div class="col-lg-5">
                             <span>kids</span>
                             <h1>Black friday</h1>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore</p>
+                            <p>Lorem ipsum dolor sit amet,re</p>
                             <a href="#" class="primary-btn">Shop Now</a>
                         </div>
                     </div>
